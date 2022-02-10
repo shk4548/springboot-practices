@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 
-//@SpringBootApplication 메타 어노테이션
+// @SpringBootApplication 메타 어노테이션
 
 // + @SpringBootConfiguration (cf. @Configuration)
 // + @ComponentScan	
